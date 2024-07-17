@@ -95,8 +95,5 @@ To run the project, follow these steps:
 - `scikit-learn`
 - `mlxtend`
 
-## Contributing
-Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute.
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
