@@ -1,7 +1,5 @@
 # Mental-health-prediction-using-Machine-Learning
 
-# Mental Health Prediction Project
-
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Dataset](#dataset)
